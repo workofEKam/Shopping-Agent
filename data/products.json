@@ -1,0 +1,512 @@
+[
+    {
+        "_id": "p001",
+        "name": "AeroBeat Pro Wireless",
+        "brand": "SonicWave",
+        "category": "Headphones",
+        "price": 8499,
+        "rating": 4.5,
+        "review_count": 1120,
+        "quantity": 30,
+        "keywords": [
+            "wireless",
+            "noise cancelling",
+            "bluetooth",
+            "over-ear"
+        ],
+        "description": "Active noise-cancelling over-ear headphones with 40-hour battery life."
+    },
+    {
+        "_id": "p002",
+        "name": "PulseBuds ANC",
+        "brand": "EchoTech",
+        "category": "Headphones",
+        "price": 3999,
+        "rating": 4.2,
+        "review_count": 640,
+        "quantity": 55,
+        "keywords": [
+            "earbuds",
+            "anc",
+            "waterproof",
+            "wireless"
+        ],
+        "description": "True wireless earbuds featuring ambient awareness and IPX5 sweat resistance."
+    },
+    {
+        "_id": "p003",
+        "name": "StudioMaster Open-Back 500",
+        "brand": "VocalCraft",
+        "category": "Headphones",
+        "price": 14999,
+        "rating": 4.8,
+        "review_count": 310,
+        "quantity": 18,
+        "keywords": [
+            "wired",
+            "audiophile",
+            "open back",
+            "mixing"
+        ],
+        "description": "Reference-grade open-back wired dynamic headphones for studio mixing."
+    },
+    {
+        "_id": "p004",
+        "name": "BassCore Street On-Ear",
+        "brand": "RhythmX",
+        "category": "Headphones",
+        "price": 2499,
+        "rating": 3.9,
+        "review_count": 890,
+        "quantity": 70,
+        "keywords": [
+            "on-ear",
+            "bass",
+            "foldable",
+            "budget"
+        ],
+        "description": "Foldable lightweight wired on-ear headphones with enhanced bass boost."
+    },
+    {
+        "_id": "p005",
+        "name": "Vortex 7.1 Surround Gaming Headset",
+        "brand": "TitanGear",
+        "category": "Headphones",
+        "price": 4999,
+        "rating": 4.4,
+        "review_count": 1450,
+        "quantity": 42,
+        "keywords": [
+            "gaming",
+            "surround sound",
+            "rgb",
+            "microphone"
+        ],
+        "description": "Virtual 7.1 surround sound headset with a detachable noise-filtering boom mic."
+    },
+    {
+        "_id": "p006",
+        "name": "ZenBook Ultra 14",
+        "brand": "Aether",
+        "category": "Laptops",
+        "price": 74999,
+        "rating": 4.6,
+        "review_count": 420,
+        "quantity": 22,
+        "keywords": [
+            "ultrabook",
+            "lightweight",
+            "oled",
+            "intel i7"
+        ],
+        "description": "Slim 14-inch OLED ultrabook with all-day battery life and aluminum chassis."
+    },
+    {
+        "_id": "p007",
+        "name": "Predator Strike 16 Gaming Laptop",
+        "brand": "TitanGear",
+        "category": "Laptops",
+        "price": 124999,
+        "rating": 4.7,
+        "review_count": 580,
+        "quantity": 14,
+        "keywords": [
+            "gaming",
+            "rtx 4070",
+            "165hz",
+            "ryzen 7"
+        ],
+        "description": "High-performance gaming laptop equipped with dedicated RTX graphics and 165Hz display."
+    },
+    {
+        "_id": "p008",
+        "name": "WorkFlex 15 Business Book",
+        "brand": "NovaCore",
+        "category": "Laptops",
+        "price": 52999,
+        "rating": 4.1,
+        "review_count": 275,
+        "quantity": 35,
+        "keywords": [
+            "business",
+            "fhd",
+            "ssd",
+            "webcam"
+        ],
+        "description": "Reliable 15.6-inch productivity laptop with full numeric pad and privacy shutter."
+    },
+    {
+        "_id": "p009",
+        "name": "SpinLite 2-in-1 Convertible",
+        "brand": "Aether",
+        "category": "Laptops",
+        "price": 61999,
+        "rating": 4.3,
+        "review_count": 190,
+        "quantity": 19,
+        "keywords": [
+            "touchscreen",
+            "stylus",
+            "convertible",
+            "portable"
+        ],
+        "description": "360-degree hinge convertible touch notebook with active stylus support."
+    },
+    {
+        "_id": "p010",
+        "name": "EduPro Cloudbook 11",
+        "brand": "NovaCore",
+        "category": "Laptops",
+        "price": 21999,
+        "rating": 3.8,
+        "review_count": 610,
+        "quantity": 80,
+        "keywords": [
+            "budget",
+            "student",
+            "compact",
+            "rugged"
+        ],
+        "description": "Spill-resistant compact notebook designed for students and classroom tasks."
+    },
+    {
+        "_id": "p011",
+        "name": "Apex Neo 5G",
+        "brand": "Horizon",
+        "category": "Phones",
+        "price": 44999,
+        "rating": 4.5,
+        "review_count": 1820,
+        "quantity": 40,
+        "keywords": [
+            "5g",
+            "amoled",
+            "108mp",
+            "fast charging"
+        ],
+        "description": "Flagship 5G smartphone with curved AMOLED panel and 67W rapid charging."
+    },
+    {
+        "_id": "p012",
+        "name": "Aura Fold Horizon",
+        "brand": "Horizon",
+        "category": "Phones",
+        "price": 109999,
+        "rating": 4.3,
+        "review_count": 150,
+        "quantity": 10,
+        "keywords": [
+            "foldable",
+            "dual screen",
+            "multitasking",
+            "premium"
+        ],
+        "description": "Next-gen foldable device transforming from a slim phone into an 8-inch tablet."
+    },
+    {
+        "_id": "p013",
+        "name": "Volt Go SE",
+        "brand": "SparkMobile",
+        "category": "Phones",
+        "price": 12999,
+        "rating": 4.0,
+        "review_count": 3400,
+        "quantity": 95,
+        "keywords": [
+            "budget",
+            "6000mah",
+            "long battery",
+            "dual sim"
+        ],
+        "description": "Entry-level smartphone with a massive 6000mAh battery and expandable storage."
+    },
+    {
+        "_id": "p014",
+        "name": "Nexus View Pro",
+        "brand": "SparkMobile",
+        "category": "Phones",
+        "price": 28999,
+        "rating": 4.4,
+        "review_count": 910,
+        "quantity": 38,
+        "keywords": [
+            "camera",
+            "ois",
+            "120hz",
+            "clean android"
+        ],
+        "description": "Mid-tier camera-focused phone with optical image stabilization and stock software."
+    },
+    {
+        "_id": "p015",
+        "name": "Terra Shield Rugged Phone",
+        "brand": "Enduro",
+        "category": "Phones",
+        "price": 31999,
+        "rating": 4.2,
+        "review_count": 210,
+        "quantity": 25,
+        "keywords": [
+            "rugged",
+            "ip69k",
+            "drop proof",
+            "outdoor"
+        ],
+        "description": "IP69K shockproof smartphone built for construction workers and outdoor expeditions."
+    },
+    {
+        "_id": "p016",
+        "name": "MechStrike 87 TKL",
+        "brand": "KeyForge",
+        "category": "Keyboards",
+        "price": 6499,
+        "rating": 4.7,
+        "review_count": 870,
+        "quantity": 45,
+        "keywords": [
+            "mechanical",
+            "tkl",
+            "red switch",
+            "rgb"
+        ],
+        "description": "Tenkeyless mechanical gaming keyboard with hot-swappable linear switches."
+    },
+    {
+        "_id": "p017",
+        "name": "ErgoCurve Split Keyboard",
+        "brand": "TypeEase",
+        "category": "Keyboards",
+        "price": 9999,
+        "rating": 4.6,
+        "review_count": 340,
+        "quantity": 20,
+        "keywords": [
+            "ergonomic",
+            "split",
+            "wrist rest",
+            "wireless"
+        ],
+        "description": "Split wireless keyboard with cushioned palm rest designed to reduce wrist strain."
+    },
+    {
+        "_id": "p018",
+        "name": "Compact Type 60%",
+        "brand": "KeyForge",
+        "category": "Keyboards",
+        "price": 4299,
+        "rating": 4.3,
+        "review_count": 520,
+        "quantity": 50,
+        "keywords": [
+            "60 percent",
+            "compact",
+            "type-c",
+            "brown switch"
+        ],
+        "description": "Ultra-portable 60% mechanical keyboard with braided detachable USB-C cable."
+    },
+    {
+        "_id": "p019",
+        "name": "SilentKey Office Slim",
+        "brand": "TypeEase",
+        "category": "Keyboards",
+        "price": 1899,
+        "rating": 4.1,
+        "review_count": 1290,
+        "quantity": 85,
+        "keywords": [
+            "membrane",
+            "silent",
+            "low profile",
+            "bluetooth"
+        ],
+        "description": "Low-profile membrane keyboard engineered with dampeners for near-silent typing."
+    },
+    {
+        "_id": "p020",
+        "name": "BoardCraft Custom Barebones",
+        "brand": "ModKeys",
+        "category": "Keyboards",
+        "price": 8999,
+        "rating": 4.8,
+        "review_count": 140,
+        "quantity": 16,
+        "keywords": [
+            "barebones",
+            "gasket mount",
+            "aluminum",
+            "diy"
+        ],
+        "description": "Gasket-mounted aluminum barebones kit ready for custom switches and keycaps."
+    },
+    {
+        "_id": "p021",
+        "name": "HyperGlide Ultralight",
+        "brand": "ViperTech",
+        "category": "Mice",
+        "price": 3799,
+        "rating": 4.6,
+        "review_count": 940,
+        "quantity": 60,
+        "keywords": [
+            "ultralight",
+            "honeycomb",
+            "gaming",
+            "16000dpi"
+        ],
+        "description": "59-gram honeycomb shell gaming mouse with flexible paracord cable."
+    },
+    {
+        "_id": "p022",
+        "name": "VerticalErgo Master",
+        "brand": "TypeEase",
+        "category": "Mice",
+        "price": 2999,
+        "rating": 4.4,
+        "review_count": 760,
+        "quantity": 35,
+        "keywords": [
+            "vertical",
+            "ergonomic",
+            "wireless",
+            "handshake"
+        ],
+        "description": "Natural handshake vertical ergonomic mouse designed to alleviate tendonitis."
+    },
+    {
+        "_id": "p023",
+        "name": "ProTrack Multi-Device Mouse",
+        "brand": "NovaCore",
+        "category": "Mice",
+        "price": 2499,
+        "rating": 4.2,
+        "review_count": 1680,
+        "quantity": 75,
+        "keywords": [
+            "bluetooth",
+            "multi-device",
+            "silent click",
+            "office"
+        ],
+        "description": "Wireless productivity mouse pairing seamlessly across up to 3 separate devices."
+    },
+    {
+        "_id": "p024",
+        "name": "Precision Roller Trackball",
+        "brand": "ModKeys",
+        "category": "Mice",
+        "price": 5499,
+        "rating": 4.5,
+        "review_count": 230,
+        "quantity": 15,
+        "keywords": [
+            "trackball",
+            "stationary",
+            "thumb control",
+            "precision"
+        ],
+        "description": "Stationary thumb-controlled trackball mouse offering pinpoint CAD precision."
+    },
+    {
+        "_id": "p025",
+        "name": "Viper Claw RGB Wireless",
+        "brand": "ViperTech",
+        "category": "Mice",
+        "price": 6999,
+        "rating": 4.7,
+        "review_count": 480,
+        "quantity": 28,
+        "keywords": [
+            "wireless",
+            "gaming",
+            "optical sensor",
+            "rechargeable"
+        ],
+        "description": "Lag-free 1ms response wireless gaming mouse with optical microswitches."
+    },
+    {
+        "_id": "p026",
+        "name": "ViewMax 27-inch 4K UHD",
+        "brand": "ClearSight",
+        "category": "Monitors",
+        "price": 27999,
+        "rating": 4.6,
+        "review_count": 890,
+        "quantity": 24,
+        "keywords": [
+            "4k",
+            "ips",
+            "hdr400",
+            "type-c"
+        ],
+        "description": "Color-accurate 27-inch 4K IPS display featuring USB-C 65W power delivery."
+    },
+    {
+        "_id": "p027",
+        "name": "RapidFrame 24 240Hz Esports",
+        "brand": "TitanGear",
+        "category": "Monitors",
+        "price": 19499,
+        "rating": 4.5,
+        "review_count": 670,
+        "quantity": 30,
+        "keywords": [
+            "240hz",
+            "1ms",
+            "esports",
+            "freesync"
+        ],
+        "description": "Ultra-fast 240Hz 1080p gaming monitor geared for competitive first-person shooters."
+    },
+    {
+        "_id": "p028",
+        "name": "UltraCurve 34 WQHD",
+        "brand": "ClearSight",
+        "category": "Monitors",
+        "price": 41999,
+        "rating": 4.7,
+        "review_count": 410,
+        "quantity": 12,
+        "keywords": [
+            "ultrawide",
+            "curved",
+            "1440p",
+            "multitask"
+        ],
+        "description": "34-inch 21:9 curved ultrawide panel ideal for timeline editing and immersive gaming."
+    },
+    {
+        "_id": "p029",
+        "name": "DeskMate 22 Full HD",
+        "brand": "NovaCore",
+        "category": "Monitors",
+        "price": 7999,
+        "rating": 4.0,
+        "review_count": 2100,
+        "quantity": 90,
+        "keywords": [
+            "budget",
+            "1080p",
+            "frameless",
+            "hdmi"
+        ],
+        "description": "Slim bezel 22-inch 1080p monitor designed for everyday office workstations."
+    },
+    {
+        "_id": "p030",
+        "name": "CreatorVision Pro 32 Mini-LED",
+        "brand": "ClearSight",
+        "category": "Monitors",
+        "price": 79999,
+        "rating": 4.9,
+        "review_count": 115,
+        "quantity": 8,
+        "keywords": [
+            "mini-led",
+            "1000nits",
+            "color grading",
+            "adobe rgb"
+        ],
+        "description": "Professional 32-inch Mini-LED studio monitor with full DCI-P3 and Adobe RGB coverage."
+    }
+]
